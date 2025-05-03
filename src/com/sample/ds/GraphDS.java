@@ -1,3 +1,5 @@
+package com.sample.ds;
+
 
 class Vertex {
 	public char label;
