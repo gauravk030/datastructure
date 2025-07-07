@@ -1,4 +1,4 @@
-package com.sample.ds;
+package com.sample.ds.graph;
 
 
 class Vertex {
